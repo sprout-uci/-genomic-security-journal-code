@@ -17,7 +17,7 @@ genomic range query problem to sparse integer sets and discuss potential use cas
 
 For more details, please check our paper available at: (TBD)
 Note that this repository only includes the extended implementation described in Section 5. 
-For implementation for Section 4, please refer to https://gitlab.com/eozturk1/range-proofs. // TODO: make it public
+For implementation for Section 4, please refer to https://gitlab.com/eozturk1/range-proofs.
 
 ## Directory Structure
 ```
